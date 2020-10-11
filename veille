@@ -1,0 +1,18 @@
+- CSS:
+https://css-tricks.com/animating-number-counters/
+animer une variable en CSS, par exemple pour un décompte, en la déclarant en tant qu'entier (integer). Avant: utilisation de JS, maintenant: possible en 
+CSS (pour le moment uniquement supporté sur chrome).
+
+
+
+- PHP
+https://www.php.net/archive/2020.php#2020-10-01-4
+PHP 8.0.0 Release Candidate 1 est disponible en test, cette nouvelle version apporte pas mal de nouveaux features résumés dans cet article : 
+https://stitcher.io/blog/new-in-php-8
+
+
+
+- UX
+https://uxdesign.cc/co-discover-user-experience-using-the-lego-serious-play-method-485f60bff064
+Un story-telling utilisateur à travers une atelier légo : le participant doit reconstituer une scène demandée à l'aide de lego, et raconter la scène, 
+les collaborateurs notent les mots clés, le cheminement (avant, pendant, après) afin de proposer les solutions adéquates.
